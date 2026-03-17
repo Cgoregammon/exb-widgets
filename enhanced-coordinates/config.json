@@ -1,0 +1,15 @@
+{
+  "showZoom": true,
+  "showScale": true,
+  "showTilt": true,
+  "showRotation": true,
+  "showGoogleMaps": true,
+  "showGoogleStreetView": true,
+  "showGoogle3D": true,
+  "showBingSatellite": true,
+  "showBingStreetside": true,
+  "showCopyCoords": true,
+  "pictometryEnabled": false,
+  "pictometryBaseUrl": "",
+  "disablePopupsOnClick": true
+}

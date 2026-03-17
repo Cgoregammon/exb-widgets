@@ -1,0 +1,22 @@
+{
+  "name": "enhanced-coordinates",
+  "label": "Enhanced Coordinates",
+  "type": "widget",
+  "version": "2.0.0",
+  "exbVersion": "1.17.0",
+  "author": "Mi-Tech GIS Division",
+  "description": "Displays coordinates, zoom, scale, tilt and rotation. Click the map for links to Google Maps, Google Street View, Bing Maps, Bing Streetside, and copy coordinates. Based on original work by Frederic Poliart (EsriAU) and community contributors.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "canCreateMapView": true
+  },
+  "dependency": "jimu-arcgis",
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 420,
+    "height": 60
+  }
+}
