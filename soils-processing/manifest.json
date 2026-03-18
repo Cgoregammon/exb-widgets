@@ -1,0 +1,19 @@
+{
+  "name": "soils-processing",
+  "label": "Soils Processing",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "Mi-Tech GIS Division",
+  "description": "Upload a KMZ/KML file and process it against the USA Soils Map Units feature service. Generates a downloadable soils report.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 380,
+    "height": 400
+  }
+}
