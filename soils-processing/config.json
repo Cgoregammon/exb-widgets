@@ -1,4 +1,4 @@
 {
-  "gpServiceUrl": "https://atlas.michels.us/arcgis/rest/services/Geoprocessing/M0109SoilsProcessing_GPServer/M0109SoilsProcessing",
+  "gpServiceUrl": "https://atlastest.michels.us/arcgis/rest/services/Geoprocessing/M0109SoilsProcessing_GPServer/M0109SoilsProcessing",
   "defaultName": ""
 }
