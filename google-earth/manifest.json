@@ -1,0 +1,22 @@
+{
+  "name": "google-earth",
+  "label": "Google Earth",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "Mi-Tech GIS Division",
+  "description": "Click on the map to open Google Earth at that location. Supports both Google Earth web and the desktop application.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "canCreateMapView": true
+  },
+  "dependency": "jimu-arcgis",
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 120
+  }
+}
