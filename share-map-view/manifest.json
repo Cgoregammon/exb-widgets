@@ -1,0 +1,22 @@
+{
+  "name": "share-map-view",
+  "label": "Share Map View",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "Mi-Tech GIS Division",
+  "description": "Generate a shareable URL that captures the current map view including center, zoom, rotation, tilt, and visible layers. Recipients open the link and see the exact same map state.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "canCreateMapView": true
+  },
+  "dependency": "jimu-arcgis",
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 350,
+    "height": 250
+  }
+}

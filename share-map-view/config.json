@@ -1,0 +1,7 @@
+{
+  "includeCenter": true,
+  "includeZoom": true,
+  "includeRotation": true,
+  "includeExtent": false,
+  "includeLayers": true
+}
