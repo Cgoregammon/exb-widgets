@@ -1,0 +1,20 @@
+{
+  "showZoom": true,
+  "showScale": true,
+  "showTilt": true,
+  "showRotation": true,
+  "showGoogleMaps": true,
+  "showGoogleStreetView": true,
+  "showGoogleEarth": true,
+  "googleEarthAltitude": 500,
+  "googleEarthMode": "web",
+  "googleEarthAltitude": 500,
+  "googleEarthMode": "web",
+  "showGoogle3D": true,
+  "showBingSatellite": true,
+  "showBingStreetside": true,
+  "showCopyCoords": true,
+  "pictometryEnabled": false,
+  "pictometryBaseUrl": "",
+  "disablePopupsOnClick": true
+}
