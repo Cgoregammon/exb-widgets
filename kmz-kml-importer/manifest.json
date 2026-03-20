@@ -2,7 +2,7 @@
   "name": "kmz-kml-importer",
   "label": "KMZ/KML Importer",
   "type": "widget",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "exbVersion": "1.17.0",
   "author": "Mi-Tech GIS Division",
   "description": "Import KMZ and KML files and display them on the map as graphics. Supports points, lines, and polygons with style extraction.",
