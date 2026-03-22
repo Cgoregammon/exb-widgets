@@ -8,7 +8,10 @@
   "description": "Upload a KMZ/KML file and process it against the USA Soils Map Units feature service. Generates a downloadable soils report.",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
-  "properties": {},
+  "properties": {
+    "canCreateMapView": true
+  },
+  "dependency": "jimu-arcgis",
   "translatedLocales": [
     "en"
   ],
